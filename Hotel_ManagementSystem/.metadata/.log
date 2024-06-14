@@ -1,0 +1,1679 @@
+!SESSION 2024-05-24 13:45:20.984 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-05-24 13:45:28.583
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-24 13:45:29.350
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-24 13:55:35.861
+!MESSAGE Logback config file: C:\Users\dabdu\Desktop\Hotel_ManagementSystem\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-05-24 13:55:36.729
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-24 13:55:36.729
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-24 13:55:37.247
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-24 13:55:37.247
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-24 13:55:43.433
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dabdu'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-26 21:48:10.768 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-05-26 21:48:13.701
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-26 21:48:13.920
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-26 21:48:40.321
+!MESSAGE Logback config file: C:\Users\dabdu\Desktop\Hotel_ManagementSystem\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-05-26 21:48:40.839
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-26 21:48:40.839
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-26 21:48:41.218
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-26 21:48:41.218
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-26 21:48:44.924
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dabdu'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:17.468
+!MESSAGE Classpath changed for project: Hotel_ManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:20.126
+!MESSAGE Classpath changed for project: Hotel_ManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:20.128
+!MESSAGE Boot project ADDED: Hotel_ManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:20.129
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:20.158
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-26 21:49:20.191
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\dabdu\Downloads\spring-tool-suite-4-4.22.1.RELEASE-e4.31.0-win32.win32.x86_64.self-extracting\contents\sts-4.22.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin\javaw.exe
+-cp
+C:\Users\dabdu\Downloads\spring-tool-suite-4-4.22.1.RELEASE-e4.31.0-win32.win32.x86_64.self-extracting\contents\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\dabdu\Downloads\spring-tool-suite-4-4.22.1.RELEASE-e4.31.0-win32.win32.x86_64.self-extracting\contents\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\dabdu\Downloads\spring-tool-suite-4-4.22.1.RELEASE-e4.31.0-win32.win32.x86_64.self-extracting\contents\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/dabdu/Desktop/Hotel_ManagementSystem/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1716740360189
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:20.192
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-26 21:49:20.212
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 7200
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-26 21:49:20.971
+!MESSAGE Classpath changed for project: Hotel_ManagementSystem
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-26 21:49:21.990
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-26 21:49:22.017
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-05-27 22:43:36.600 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2024-05-27 22:43:58.699
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-27 22:43:58.699
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5eed2edf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4552e288,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.runtime 4 0 2024-05-27 22:44:02.807
+!MESSAGE Invalid input url:platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:64)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:293)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:206)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:239)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:58)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:419)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:687)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:274)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 4 0 2024-05-27 22:44:02.809
+!MESSAGE Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:64)
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.resolve(PlatformURLPluginConnection.java:73)
+	at org.eclipse.core.internal.boot.PlatformURLHandler.openConnection(PlatformURLHandler.java:69)
+	at org.eclipse.osgi.internal.url.URLStreamHandlerProxy.openConnection(URLStreamHandlerProxy.java:123)
+	at java.base/java.net.URL.openConnection(URL.java:1094)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.toFileURL(PlatformURLConverter.java:34)
+	at org.eclipse.core.runtime.FileLocator.toFileURL(FileLocator.java:261)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:243)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:58)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:419)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:687)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:274)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.runtime 4 0 2024-05-27 22:44:02.811
+!MESSAGE Invalid input url:platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:64)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:293)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:206)
+	at org.eclipse.jface.resource.URLImageDescriptor.getStream(URLImageDescriptor.java:166)
+	at org.eclipse.jface.resource.URLImageDescriptor.getImageData(URLImageDescriptor.java:134)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageDataProvider.getImageData(URLImageDescriptor.java:78)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImageDataAtZoom(DPIUtil.java:404)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:732)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:282)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 2 0 2024-05-27 22:44:02.813
+!MESSAGE The image could not be loaded: URLImageDescriptor(platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png)
+!STACK 0
+org.eclipse.jface.resource.DeviceResourceException: Unable to create resource URLImageDescriptor(platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:229)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-27 22:44:03.814
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dabdu'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.823
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.debug.ui.launchView" id and the "Launch Configurations" label.It points to the non available "bundleclass://org.eclipse.debug.ui.launchview/org.eclipse.debug.ui.launchview.internal.view.LaunchViewImpl" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.829
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.bcoview.views.BytecodeOutlineView" id and the "Bytecode" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.830
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.bcoview.views.BytecodeReferenceView" id and the "Bytecode Reference" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.840
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerContainersView" id and the "Docker Containers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.842
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerImagesView" id and the "Docker Images" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.843
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerExplorerView" id and the "Docker Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.844
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerImageHierarchyView" id and the "Docker Image Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.847
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.callHierarchy.callHierarchyView" id and the "Call Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.849
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.operations.typeHierarchy.TypeHierarchyView" id and the "Type Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.851
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.ui.languageServersView" id and the "Language Servers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.854
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.m2e.core.views.MavenLifecycleMappingsView" id and the "Maven Lifecycle Mappings" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.882
+!MESSAGE Removing PartDescriptorImpl with the "org.springframework.ide.eclipse.boot.dash.views.BootDashView" id and the "Boot Dashboard" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-27 22:44:03.885
+!MESSAGE Removing PartDescriptorImpl with the "org.springframework.tooling.ls.eclipse.gotosymbol.view.SpringSymbolsView" id and the "Spring Symbols" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-05-27 22:44:04.700
+!MESSAGE Can't read workspace state
+!STACK 0
+java.io.InvalidClassException: org.eclipse.m2e.core.internal.project.registry.VersionlessKey; local class incompatible: stream classdesc serialVersionUID = 0, local class serialVersionUID = 2125977578206347429
+	at java.base/java.io.ObjectStreamClass.initNonProxy(ObjectStreamClass.java:728)
+	at java.base/java.io.ObjectInputStream.readNonProxyDesc(ObjectInputStream.java:2060)
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1907)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2209)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1742)
+	at java.base/java.io.ObjectInputStream$FieldValues.<init>(ObjectInputStream.java:2584)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2442)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2242)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1742)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.HashSet.readObject(HashSet.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2408)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2242)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1742)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.HashMap.readObject(HashMap.java:1546)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2408)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2242)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1742)
+	at java.base/java.io.ObjectInputStream$FieldValues.<init>(ObjectInputStream.java:2584)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2442)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2242)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1742)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader.readWorkspaceState(ProjectRegistryReader.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.<init>(ProjectRegistryManager.java:182)
+	at org.eclipse.m2e.core.internal.MavenPluginActivator.start(MavenPluginActivator.java:221)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.lambda$2(BundleContextImpl.java:808)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:802)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:759)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1019)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:404)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:388)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:463)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:170)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3373)
+	at java.base/java.lang.Class.getConstructor0(Class.java:3578)
+	at java.base/java.lang.Class.getConstructor(Class.java:2271)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.loadBundleActivator(BundleContextImpl.java:793)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:745)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1019)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:404)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:388)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:467)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:170)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:616)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:196)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.core.JavaCore.computeClasspathContainerInitializer(JavaCore.java:3824)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainerInitializer(JavaCore.java:3800)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:3125)
+	at org.eclipse.jdt.internal.core.JavaModelManager$10.run(JavaModelManager.java:3028)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:3090)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:2087)
+	at org.eclipse.jdt.core.JavaCore.initializeAfterLoad(JavaCore.java:4566)
+	at org.eclipse.jdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2024-05-27 22:44:07.646
+!MESSAGE Exception while reading last build state for: P/Hotel_ManagementSystem
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error reading last build state for project Hotel_ManagementSystem
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4125)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getLastBuiltState(JavaModelManager.java:2263)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.getLastState(JavaBuilder.java:449)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:189)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:203)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:614)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:570)
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4110)
+	... 15 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 2 2024-05-27 22:44:07.648
+!MESSAGE Error reading last build state for project Hotel_ManagementSystem
+!STACK 0
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:203)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:614)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:570)
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4110)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getLastBuiltState(JavaModelManager.java:2263)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.getLastState(JavaBuilder.java:449)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:189)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-27 22:44:10.801
+!MESSAGE Error injecting: org.apache.maven.plugin.war.WarMojo
+!STACK 0
+com.google.inject.ProvisionException: Unable to provision, see the following errors:
+
+1) Error injecting constructor, java.lang.ExceptionInInitializerError: Cannot access defaults field of Properties
+  at org.apache.maven.plugin.war.WarMojo.<init>(Unknown Source)
+  while locating org.apache.maven.plugin.war.WarMojo
+
+1 error
+	at com.google.inject.internal.InternalProvisionException.toProvisionException(InternalProvisionException.java:226)
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1053)
+	at com.google.inject.internal.InjectorImpl.getInstance(InjectorImpl.java:1086)
+	at org.eclipse.sisu.space.AbstractDeferredClass.get(AbstractDeferredClass.java:48)
+	at com.google.inject.internal.ProviderInternalFactory.provision(ProviderInternalFactory.java:85)
+	at com.google.inject.internal.InternalFactoryToInitializableAdapter.provision(InternalFactoryToInitializableAdapter.java:57)
+	at com.google.inject.internal.ProviderInternalFactory$1.call(ProviderInternalFactory.java:66)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:112)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:127)
+	at com.google.inject.internal.ProvisionListenerStackCallback.provision(ProvisionListenerStackCallback.java:66)
+	at com.google.inject.internal.ProviderInternalFactory.circularGet(ProviderInternalFactory.java:61)
+	at com.google.inject.internal.InternalFactoryToInitializableAdapter.get(InternalFactoryToInitializableAdapter.java:47)
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1050)
+	at org.eclipse.sisu.inject.Guice4$1.get(Guice4.java:162)
+	at org.eclipse.sisu.inject.LazyBeanEntry.getValue(LazyBeanEntry.java:81)
+	at org.eclipse.sisu.plexus.LazyPlexusBean.getValue(LazyPlexusBean.java:51)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:255)
+	at org.apache.maven.plugin.internal.DefaultMavenPluginManager.getConfiguredMojo(DefaultMavenPluginManager.java:520)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getConfiguredMojo(MavenImpl.java:354)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.reflectManifestGeneration(AbstractMavenArchiverConfigurator.java:469)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:422)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:227)
+	at org.eclipse.m2e.wtp.mavenarchiver.AbstractWTPArchiverConfigurator.mavenProjectChanged(AbstractWTPArchiverConfigurator.java:56)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:991)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.ExceptionInInitializerError: Cannot access defaults field of Properties
+	at com.thoughtworks.xstream.converters.collections.PropertiesConverter.<clinit>(PropertiesConverter.java:46)
+	at com.thoughtworks.xstream.XStream.setupConverters(XStream.java:647)
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:445)
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:385)
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:342)
+	at org.apache.maven.plugin.war.util.WebappStructureSerializer.<clinit>(WebappStructureSerializer.java:47)
+	at org.apache.maven.plugin.war.AbstractWarMojo.<init>(AbstractWarMojo.java:316)
+	at org.apache.maven.plugin.war.WarMojo.<init>(WarMojo.java:49)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.google.inject.internal.DefaultConstructionProxyFactory$ReflectiveProxy.newInstance(DefaultConstructionProxyFactory.java:126)
+	at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:114)
+	at com.google.inject.internal.ConstructorInjector.access$000(ConstructorInjector.java:32)
+	at com.google.inject.internal.ConstructorInjector$1.call(ConstructorInjector.java:98)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:112)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:127)
+	at com.google.inject.internal.ProvisionListenerStackCallback.provision(ProvisionListenerStackCallback.java:66)
+	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:93)
+	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:306)
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1050)
+	... 32 more
+
+!ENTRY org.eclipse.wst.validation 4 0 2024-05-27 22:44:13.366
+!MESSAGE Plug-in "org.eclipse.wst.jsdt.core" was unable to instantiate class "org.eclipse.wst.jsdt.internal.core.validation.JavaScriptValidator".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "org.eclipse.wst.jsdt.core" was unable to instantiate class "org.eclipse.wst.jsdt.internal.core.validation.JavaScriptValidator".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:212)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:206)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.wst.validation.Validator$V2.getValidator(Validator.java:1062)
+	at org.eclipse.wst.validation.Validator$V2.getDelegatedValidator(Validator.java:1015)
+	at org.eclipse.wst.validation.Validator$V2.validationStarting(Validator.java:1304)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$4.visit(ValBuilderJob.java:172)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:750)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:176)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	... 12 more
+Caused by: java.lang.ExceptionInInitializerError
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.getOptions(JavaScriptCore.java:2478)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.initializeDefaults(ASTParser.java:232)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.<init>(ASTParser.java:215)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.newParser(ASTParser.java:114)
+	at org.eclipse.wst.jsdt.internal.core.validation.JavaScriptValidator.<init>(JavaScriptValidator.java:43)
+	... 18 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.core.runtime.Plugin.getStateLocation()" because the return value of "org.eclipse.wst.jsdt.core.JavaScriptCore.getPlugin()" is null
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.getJavaPluginWorkingLocation(IndexManager.java:305)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.getSavedIndexesDirectory(IndexManager.java:320)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.<init>(IndexManager.java:72)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.<init>(JavaModelManager.java:1331)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.<clinit>(JavaModelManager.java:992)
+	... 23 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2024-05-27 22:44:13.367
+!MESSAGE Plug-in "org.eclipse.wst.jsdt.core" was unable to instantiate class "org.eclipse.wst.jsdt.internal.core.validation.JavaScriptValidator".
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.wst.validation.Validator$V2.getValidator(Validator.java:1062)
+	at org.eclipse.wst.validation.Validator$V2.getDelegatedValidator(Validator.java:1015)
+	at org.eclipse.wst.validation.Validator$V2.validationStarting(Validator.java:1304)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$4.visit(ValBuilderJob.java:172)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:750)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:176)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.ExceptionInInitializerError
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.getOptions(JavaScriptCore.java:2478)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.initializeDefaults(ASTParser.java:232)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.<init>(ASTParser.java:215)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.newParser(ASTParser.java:114)
+	at org.eclipse.wst.jsdt.internal.core.validation.JavaScriptValidator.<init>(JavaScriptValidator.java:43)
+	... 18 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.core.runtime.Plugin.getStateLocation()" because the return value of "org.eclipse.wst.jsdt.core.JavaScriptCore.getPlugin()" is null
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.getJavaPluginWorkingLocation(IndexManager.java:305)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.getSavedIndexesDirectory(IndexManager.java:320)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.<init>(IndexManager.java:72)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.<init>(JavaModelManager.java:1331)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.<clinit>(JavaModelManager.java:992)
+	... 23 more
+Root exception:
+java.lang.ExceptionInInitializerError
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.getOptions(JavaScriptCore.java:2478)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.initializeDefaults(ASTParser.java:232)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.<init>(ASTParser.java:215)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.newParser(ASTParser.java:114)
+	at org.eclipse.wst.jsdt.internal.core.validation.JavaScriptValidator.<init>(JavaScriptValidator.java:43)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.wst.validation.Validator$V2.getValidator(Validator.java:1062)
+	at org.eclipse.wst.validation.Validator$V2.getDelegatedValidator(Validator.java:1015)
+	at org.eclipse.wst.validation.Validator$V2.validationStarting(Validator.java:1304)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$4.visit(ValBuilderJob.java:172)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:750)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:176)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.core.runtime.Plugin.getStateLocation()" because the return value of "org.eclipse.wst.jsdt.core.JavaScriptCore.getPlugin()" is null
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.getJavaPluginWorkingLocation(IndexManager.java:305)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.getSavedIndexesDirectory(IndexManager.java:320)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.<init>(IndexManager.java:72)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.<init>(JavaModelManager.java:1331)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.<clinit>(JavaModelManager.java:992)
+	... 23 more
+
+!ENTRY org.eclipse.wst.validation 4 0 2024-05-27 22:44:13.371
+!MESSAGE IWAE0100E Extension configuration error. An internal error has happened, the validator org.eclipse.wst.jsdt.core has incorrectly configured the validation extension point.
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.417
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/Adminhome.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.462
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/Adminlogin.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.521
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/Adminoptions.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.613
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/CustomerHomepage.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.659
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/CustomerLogin.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.699
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/CustomerOptions.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.780
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/HotelHomepage.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.813
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/HotelLogin.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.853
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/Hoteloptions.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2024-05-27 22:44:16.946
+!MESSAGE JPSIndexManager: problem indexing:/Hotel_ManagementSystem/src/main/webapp/displaymessage.jsp
+!STACK 0
+java.lang.NullPointerException: Cannot read field "fDocumentMap" because "org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController._instance" is null
+	at org.eclipse.jst.jsp.core.internal.contentmodel.TaglibController.getLocation(TaglibController.java:246)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.compilerSupportsParameterizedTypes(ELGeneratorVisitor.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGeneratorVisitor.<init>(ELGeneratorVisitor.java:157)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.ELGenerator.generate(ELGenerator.java:51)
+	at org.eclipse.jst.jsp.core.internal.java.jspel.JSPELTranslator.translateEL(JSPELTranslator.java:70)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateEL(JSPTranslator.java:1892)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateXMLContent(JSPTranslator.java:1537)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translateRegionContainer(JSPTranslator.java:1449)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1220)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getJSPTranslation(JSPSearchDocument.java:122)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchDocument.getPath(JSPSearchDocument.java:161)
+	at org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate.<init>(JavaSearchDocumentDelegate.java:32)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.createSearchDocument(JSPSearchSupport.java:453)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport.addJspFile(JSPSearchSupport.java:283)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:169)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1569)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1567)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-05-27 22:44:21.909
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-05-27 22:45:03.320 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-05-27 22:45:11.870
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2024-05-27 22:45:14.333
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-27 22:45:14.333
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10b7b5f0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@80b70fd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.runtime 4 0 2024-05-27 22:45:17.208
+!MESSAGE Invalid input url:platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:64)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:293)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:206)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:239)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:58)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:419)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:687)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:274)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 4 0 2024-05-27 22:45:17.211
+!MESSAGE Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:64)
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.resolve(PlatformURLPluginConnection.java:73)
+	at org.eclipse.core.internal.boot.PlatformURLHandler.openConnection(PlatformURLHandler.java:69)
+	at org.eclipse.osgi.internal.url.URLStreamHandlerProxy.openConnection(URLStreamHandlerProxy.java:123)
+	at java.base/java.net.URL.openConnection(URL.java:1094)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.toFileURL(PlatformURLConverter.java:34)
+	at org.eclipse.core.runtime.FileLocator.toFileURL(FileLocator.java:261)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:243)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:58)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:419)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:687)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:274)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.runtime 4 0 2024-05-27 22:45:17.213
+!MESSAGE Invalid input url:platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "org.springframework.ide.eclipse.boot.dash".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:64)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:293)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:206)
+	at org.eclipse.jface.resource.URLImageDescriptor.getStream(URLImageDescriptor.java:166)
+	at org.eclipse.jface.resource.URLImageDescriptor.getImageData(URLImageDescriptor.java:134)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageDataProvider.getImageData(URLImageDescriptor.java:78)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImageDataAtZoom(DPIUtil.java:404)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:732)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:282)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 2 0 2024-05-27 22:45:17.215
+!MESSAGE The image could not be loaded: URLImageDescriptor(platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png)
+!STACK 0
+org.eclipse.jface.resource.DeviceResourceException: Unable to create resource URLImageDescriptor(platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:229)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:195)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:218)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:794)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:205)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:116)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:676)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:672)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-27 22:45:18.136
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dabdu'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-27 22:45:31.008
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-27 22:45:31.034
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-27 22:45:31.403
+!MESSAGE Error injecting: org.apache.maven.plugin.war.WarMojo
+!STACK 0
+com.google.inject.ProvisionException: Unable to provision, see the following errors:
+
+1) Error injecting constructor, java.lang.ExceptionInInitializerError: Cannot access defaults field of Properties
+  at org.apache.maven.plugin.war.WarMojo.<init>(Unknown Source)
+  while locating org.apache.maven.plugin.war.WarMojo
+
+1 error
+	at com.google.inject.internal.InternalProvisionException.toProvisionException(InternalProvisionException.java:226)
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1053)
+	at com.google.inject.internal.InjectorImpl.getInstance(InjectorImpl.java:1086)
+	at org.eclipse.sisu.space.AbstractDeferredClass.get(AbstractDeferredClass.java:48)
+	at com.google.inject.internal.ProviderInternalFactory.provision(ProviderInternalFactory.java:85)
+	at com.google.inject.internal.InternalFactoryToInitializableAdapter.provision(InternalFactoryToInitializableAdapter.java:57)
+	at com.google.inject.internal.ProviderInternalFactory$1.call(ProviderInternalFactory.java:66)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:112)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:127)
+	at com.google.inject.internal.ProvisionListenerStackCallback.provision(ProvisionListenerStackCallback.java:66)
+	at com.google.inject.internal.ProviderInternalFactory.circularGet(ProviderInternalFactory.java:61)
+	at com.google.inject.internal.InternalFactoryToInitializableAdapter.get(InternalFactoryToInitializableAdapter.java:47)
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1050)
+	at org.eclipse.sisu.inject.Guice4$1.get(Guice4.java:162)
+	at org.eclipse.sisu.inject.LazyBeanEntry.getValue(LazyBeanEntry.java:81)
+	at org.eclipse.sisu.plexus.LazyPlexusBean.getValue(LazyPlexusBean.java:51)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:255)
+	at org.apache.maven.plugin.internal.DefaultMavenPluginManager.getConfiguredMojo(DefaultMavenPluginManager.java:520)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getConfiguredMojo(MavenImpl.java:354)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.reflectManifestGeneration(AbstractMavenArchiverConfigurator.java:469)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:422)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:227)
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator$1.build(AbstractMavenArchiverConfigurator.java:167)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:135)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:169)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$1(MavenBuilder.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:105)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.ExceptionInInitializerError: Cannot access defaults field of Properties
+	at com.thoughtworks.xstream.converters.collections.PropertiesConverter.<clinit>(PropertiesConverter.java:46)
+	at com.thoughtworks.xstream.XStream.setupConverters(XStream.java:647)
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:445)
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:385)
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:342)
+	at org.apache.maven.plugin.war.util.WebappStructureSerializer.<clinit>(WebappStructureSerializer.java:47)
+	at org.apache.maven.plugin.war.AbstractWarMojo.<init>(AbstractWarMojo.java:316)
+	at org.apache.maven.plugin.war.WarMojo.<init>(WarMojo.java:49)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.google.inject.internal.DefaultConstructionProxyFactory$ReflectiveProxy.newInstance(DefaultConstructionProxyFactory.java:126)
+	at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:114)
+	at com.google.inject.internal.ConstructorInjector.access$000(ConstructorInjector.java:32)
+	at com.google.inject.internal.ConstructorInjector$1.call(ConstructorInjector.java:98)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:112)
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:127)
+	at com.google.inject.internal.ProvisionListenerStackCallback.provision(ProvisionListenerStackCallback.java:66)
+	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:93)
+	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:306)
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1050)
+	... 46 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-27 22:45:52.916
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-05-27 22:45:52.921
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
